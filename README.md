@@ -17,6 +17,7 @@ The following important libraries were used for this project:
 - matplotlib.pyplot
 - seaborn
 - sklearn.model_selection.train_test_split
+- sklearn.linear_model.LinearRegression
 
 
 ## Dataset
